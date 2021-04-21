@@ -10,11 +10,11 @@
 
 To install this package, you can run this code via your terminal
 ```shell
-	composer require gufy/cpanel-php:~2.0
+	composer require moh4git/cpanel-php:~2.0
 ```
 Or update your `composer.json` by adding this line
 ```json
-	"gufy/cpanel-php":"~2.0"
+	"moh4git/cpanel-php":"~2.0"
 ```
 
 Then, run this code
